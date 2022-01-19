@@ -1,6 +1,10 @@
 # MNIST: Hello World of Machine Learning
 
-## Setup
+## Try it in the Cloud
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yangchenyun/mnist-pytorch/HEAD)
+
+## Local Setup
 
 - Python 3.8
 - PyTorch
