@@ -7,6 +7,7 @@
 - Numpy
 - Matplotlib
 - Jupyter
+- Pandas
 
 ```sh
 python -m venv env
